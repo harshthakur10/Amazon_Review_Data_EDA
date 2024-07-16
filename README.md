@@ -1,5 +1,8 @@
 # Amazon Review Data Analysis and Performed EDA
 
+![Amazon-5-Star-Review-Illustration](https://github.com/user-attachments/assets/9c1b8974-f306-49b3-8e24-1ed084cc9b71)
+
+
 ## Overview
 *This project focuses on Exploratory Data Analysis (EDA) of a dataset sourced from Amazon. The main objectives include importing necessary libraries, performing data cleaning, understanding the dataset, exploring it through various statistical measures, and visualizing key insights.*
 
